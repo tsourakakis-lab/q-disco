@@ -1,0 +1,13 @@
+lambda: 50, size: 230, node weight density: 50, edge density:1.66
+lambda: 25, size: 230, node weight density: 50, edge density:1.66
+lambda: 12.5, size: 230, node weight density: 50, edge density:1.66
+lambda: 6.25, size: 241, node weight density: 49.9958, edge density:1.68794
+lambda: 3.12, size: 301, node weight density: 49.9502, edge density:1.84649
+lambda: 1.56, size: 685, node weight density: 49.5956, edge density:2.68684
+lambda: 0.78, size: 728, node weight density: 49.5687, edge density:2.71643
+lambda: 0.39, size: 753, node weight density: 49.5259, edge density:2.7379
+lambda: 0.19, size: 993, node weight density: 19.6495, edge density:9.72459
+lambda: 0.29, size: 753, node weight density: 49.5259, edge density:2.73749
+lambda: 0.24, size: 1826, node weight density: 33.4639, edge density:6.95067
+lambda: 0.26, size: 1883, node weight density: 34.1806, edge density:6.77105
+lambda: 0.27, size: 753, node weight density: 49.5259, edge density:2.73801

@@ -1,0 +1,9 @@
+lambda: 50, size: 1, node weight density: 63, edge density:0
+lambda: 25, size: 1, node weight density: 63, edge density:0
+lambda: 12.5, size: 1, node weight density: 63, edge density:0
+lambda: 6.2, size: 1, node weight density: 63, edge density:-6.10352e-06
+lambda: 3.1, size: 1, node weight density: 63, edge density:-3.05176e-06
+lambda: 1.5, size: 1, node weight density: 63, edge density:0
+lambda: 0.7, size: 115, node weight density: 20.4348, edge density:56.5557
+lambda: 0.3, size: 115, node weight density: 20.4348, edge density:56.5596
+lambda: 0.1, size: 115, node weight density: 20.4348, edge density:56.5565
